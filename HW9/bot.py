@@ -5,7 +5,7 @@ import telebot
 from random import randint
 from random import choice
 
-bot = telebot.TeleBot("5615721759:AAEBga0Z_1jNkzd4Y3vqkHHkZllGyuUgaCY") # d_slider_bot
+bot = telebot.TeleBot("5615721759:AAEBga0Z_1jNkzd4Y3vqkHHkZllGyuUgaCY") # d_slider_bot https://t.me/d_slider_bot
 
 candys = dict()
 enable_game = dict()
