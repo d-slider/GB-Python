@@ -4,7 +4,7 @@ import telebot
 
 os.system('cls')
 
-bot = telebot.TeleBot('5615721759:AAEBga0Z_1jNkzd4Y3vqkHHkZllGyuUgaCY') # https://t.me/d_slider_bot
+bot = telebot.TeleBot('XXXXXX') # https://t.me/d_slider_bot
 
 def request(data):
     currency = ''
